@@ -5,9 +5,9 @@
 </p>
 
 ### Summary
-#### <strong>Data:</strong> Movies data I have used for this porject was between 2000 to 2017
-#### <strong>No of Entry:</strong> There were 4786 rows
-#### <strong>Observation:</strong> Data contained 8 obeservations - Release Date, Title, Runtime, Reveue, Budget, Original Language and Popularity
+#### <strong>Sample Data:</strong> Movies data I have used for this porject was between 2000 to 2017
+#### <strong>Sample Size:</strong> There were 4786 rows
+#### <strong>Observation (Column):</strong> Data contained 8 obeservations - Release Date, Title, Runtime, Reveue, Budget, Original Language and Popularity
 
 
 
