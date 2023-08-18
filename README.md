@@ -15,7 +15,7 @@
   ##
 </p>
 
-### Key Findings 1:</br>
+### :mag_right: Key Findings 1:</br>
   #### 1. Some title had high average voting but did not made high revenues.
   #### 2. Some highly popular film did not generate high revene.
   #### 3. Title generated most revenue had average budget.
