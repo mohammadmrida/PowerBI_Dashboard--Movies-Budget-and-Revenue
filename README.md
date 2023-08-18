@@ -1,5 +1,5 @@
 # PowerBI Dashboard
-## Project: Movies Budget and Revenue
+## Project: Movies
 
 <p>
 </p>
