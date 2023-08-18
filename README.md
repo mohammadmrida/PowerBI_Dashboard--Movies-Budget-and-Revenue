@@ -11,6 +11,8 @@
 
 <p>
 ### Key Findings:
+  #### Some title had high average voting but did not made high revenues. 
+  #### Some highly popular film did not generate high revene
 </p>
 
 <p align="center">
