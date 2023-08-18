@@ -15,6 +15,7 @@
 <p>
   ##
 </p>
+---
 
 ### :mag_right: Key Findings 1:</br>
   #### :high_brightness: Some title had high average voting but did not made high revenues.
