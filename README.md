@@ -1,12 +1,17 @@
 # PowerBI Dashboard
 ## Project: Movies Budget and Revenue
 
-<p align="center">
-  <img src="Movies_Dashboard.png" width="80%" alt="accessibility text">
-</p>
-
 <p>
 </p>
 
 ### Summary
-Movies data I have used this porject is between 2000 to 2017
+<strong>Data:</strong> Movies data I have used for this porject was between 2000 to 2017
+<strong>No of Entry:</strong> There were 4786 rows
+<strong>Observation:</strong> Data contained 8 obeservations - Release Date, Title, Runtime, Reveue, Budget, Original Language and Popularity
+
+<p align="center">
+  <img src="Movies_Dashboard.png" width="80%" alt="accessibility text">
+</p>
+
+
+
