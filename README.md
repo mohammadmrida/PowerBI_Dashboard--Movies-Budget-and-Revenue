@@ -32,10 +32,10 @@
 
 
 ### :mag_right: Key Findings 2:
-  #### 1. Average runtime of a film had no significant on average budget per film. 
-  #### 2. English has highest average revenue per language per film followed by the Chinese film.
-  #### 3. English film has the signinficantly high average budget compare to others.
-  #### 4. Marathi (mr) film has the highest average runtime of all language.
+  #### :high_brightness: Average runtime of a film had no significant on average budget per film. 
+  #### :high_brightness: English has highest average revenue per language per film followed by the Chinese film.
+  #### :high_brightness: English film has the signinficantly high average budget compare to others.
+  #### :high_brightness: Marathi (mr) film has the highest average runtime of all language.
 
 <p align="center">
   <img src="Movies_Report2.png" width="80%" alt="accessibility text">
@@ -47,10 +47,10 @@
 
 
 ### :mag_right: Key Findings 3:
-  #### 1. Highest number of film released in 2013 and lowest number in 2017.
-  #### 2. Average Budget per film was significantly in 2017.
-  #### 3. Film realeased in Qrt2 and Qrt4 had the highest avareage revenue per film .
-  #### 4. Film released in the month of MAY, JUNE & JULY has higher revenue.
+  #### :high_brightness: Highest number of film released in 2013 and lowest number in 2017.
+  #### :high_brightness: Average Budget per film was significantly in 2017.
+  #### :high_brightness: Film realeased in Qrt2 and Qrt4 had the highest avareage revenue per film .
+  #### :high_brightness: Film released in the month of MAY, JUNE & JULY has higher revenue.
 
   
 <p align="center">
