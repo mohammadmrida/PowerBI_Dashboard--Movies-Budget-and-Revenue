@@ -11,11 +11,8 @@
 #### :bar_chart: ETL & Dashboard Tools: PowerBI, Power Query
 
 
-
-<p>
-  ##
-</p>
-
+  <br>
+  
 (---)
 
 ### :mag_right: Key Findings 1:</br>
