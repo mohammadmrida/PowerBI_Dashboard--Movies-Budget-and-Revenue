@@ -33,9 +33,9 @@
 
 ### Key Findings 2:
   #### Average runtime of a film had no significant on average budget per film. 
-  #### English and Chinise films has highest average revenue per language per film.
-  #### Title generated most revenue had average budget.
-  #### Film in EN generated 95% revenue compare to other languages, this because number of film released in EN was significant
+  #### English has highest average revenue per language per film followed by the Chinese film.
+  #### English film has the signinficantly high average budget compare to others.
+  #### Marathi (mr) film has the highest average runtime of all language.
 
 <p align="center">
   <img src="Movies_Report2.png" width="80%" alt="accessibility text">
