@@ -47,10 +47,10 @@
 
 
 ### Key Findings 3:
-  #### Some title had high average voting but did not made high revenues.
-  #### Some highly popular film did not generate high revene.
-  #### Title generated most revenue had average budget.
-  #### Film in EN generated 95% revenue compare to other languages, this because number of film released in EN was significant.
+  #### Highest number of film released in 2013 and lowest number in 2017.
+  #### Average Budget per film was significantly in 2017.
+  #### Film realeased in Qrt2 and Qrt4 had the highest avareage revenue per film .
+  #### Film released in the month of MAY, JUNE & JULY has higher revenue.
 
   
 <p align="center">
