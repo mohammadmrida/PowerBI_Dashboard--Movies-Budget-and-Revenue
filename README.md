@@ -32,8 +32,8 @@
 
 
 ### Key Findings 2:
-  #### Some title had high average voting but did not made high revenues.
-  #### Some highly popular film did not generate high revene
+  #### Average runtime of a film had no significant on average budget per film. 
+  #### English and Chinise films has highest average revenue per language per film.
   #### Title generated most revenue had average budget.
   #### Film in EN generated 95% revenue compare to other languages, this because number of film released in EN was significant
 
@@ -44,11 +44,15 @@
 <p>
   ##
 </p>
-### Key Findings 2:
+
+
+### Key Findings 3:
   #### Some title had high average voting but did not made high revenues.
   #### Some highly popular film did not generate high revene.
   #### Title generated most revenue had average budget.
   #### Film in EN generated 95% revenue compare to other languages, this because number of film released in EN was significant.
+
+  
 <p align="center">
   <img src="Movies_Report3.png" width="80%" alt="accessibility text">
 </p>
