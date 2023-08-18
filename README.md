@@ -10,9 +10,11 @@
 <strong>Observation:</strong> Data contained 8 obeservations - Release Date, Title, Runtime, Reveue, Budget, Original Language and Popularity
 
 <p>
-### Key Findings:
-  #### Some title had high average voting but did not made high revenues. 
-  #### Some highly popular film did not generate high revene
+### Key Findings:</br>
+  #### Some title had high average voting but did not made high revenues. </br>
+  #### Some highly popular film did not generate high revene</br>
+  #### Title generated most revenue had average budget.</br>
+  #### Film in EN generated 95% revenue compare to other languages, this because number of film released in EN was significant</br>
 </p>
 
 <p align="center">
