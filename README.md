@@ -16,10 +16,10 @@
 </p>
 
 ### Key Findings 1:</br>
-  #### Some title had high average voting but did not made high revenues.
-  #### Some highly popular film did not generate high revene.
-  #### Title generated most revenue had average budget.
-  #### Film in EN generated 95% revenue compare to other languages, this because number of film released in EN was significant.
+  #### 1. Some title had high average voting but did not made high revenues.
+  #### 2. Some highly popular film did not generate high revene.
+  #### 3. Title generated most revenue had average budget.
+  #### 4. Film in EN generated 95% revenue compare to other languages, this because number of film released in EN was significant.
 
 
 <p align="center">
@@ -32,10 +32,10 @@
 
 
 ### Key Findings 2:
-  #### Average runtime of a film had no significant on average budget per film. 
-  #### English has highest average revenue per language per film followed by the Chinese film.
-  #### English film has the signinficantly high average budget compare to others.
-  #### Marathi (mr) film has the highest average runtime of all language.
+  #### 1. Average runtime of a film had no significant on average budget per film. 
+  #### 2. English has highest average revenue per language per film followed by the Chinese film.
+  #### 3. English film has the signinficantly high average budget compare to others.
+  #### 4. Marathi (mr) film has the highest average runtime of all language.
 
 <p align="center">
   <img src="Movies_Report2.png" width="80%" alt="accessibility text">
@@ -47,10 +47,10 @@
 
 
 ### Key Findings 3:
-  #### Highest number of film released in 2013 and lowest number in 2017.
-  #### Average Budget per film was significantly in 2017.
-  #### Film realeased in Qrt2 and Qrt4 had the highest avareage revenue per film .
-  #### Film released in the month of MAY, JUNE & JULY has higher revenue.
+  #### 1. Highest number of film released in 2013 and lowest number in 2017.
+  #### 2. Average Budget per film was significantly in 2017.
+  #### 3. Film realeased in Qrt2 and Qrt4 had the highest avareage revenue per film .
+  #### 4. Film released in the month of MAY, JUNE & JULY has higher revenue.
 
   
 <p align="center">
