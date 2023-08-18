@@ -16,10 +16,10 @@
 </p>
 
 ### :mag_right: Key Findings 1:</br>
-  #### 1. Some title had high average voting but did not made high revenues.
-  #### 2. Some highly popular film did not generate high revene.
-  #### 3. Title generated most revenue had average budget.
-  #### 4. Film in EN generated 95% revenue compare to other languages, this because number of film released in EN was significant.
+  #### :high_brightness: Some title had high average voting but did not made high revenues.
+  #### :high_brightness: Some highly popular film did not generate high revene.
+  #### :high_brightness: Title generated most revenue had average budget.
+  #### :high_brightness: Film in EN generated 95% revenue compare to other languages, this because number of film released in EN was significant.
 
 
 <p align="center">
@@ -31,7 +31,7 @@
 </p>
 
 
-### Key Findings 2:
+### :mag_right: Key Findings 2:
   #### 1. Average runtime of a film had no significant on average budget per film. 
   #### 2. English has highest average revenue per language per film followed by the Chinese film.
   #### 3. English film has the signinficantly high average budget compare to others.
@@ -46,7 +46,7 @@
 </p>
 
 
-### Key Findings 3:
+### :mag_right: Key Findings 3:
   #### 1. Highest number of film released in 2013 and lowest number in 2017.
   #### 2. Average Budget per film was significantly in 2017.
   #### 3. Film realeased in Qrt2 and Qrt4 had the highest avareage revenue per film .
