@@ -26,10 +26,9 @@
   <img src="Movies_Report1.png" width="80%" alt="accessibility text">
 </p>
 
-<p>
-  ##
-</p>
-
+  <br>
+  
+(---)
 
 ### :mag_right: Key Findings 2:
   #### :high_brightness: Average runtime of a film had no significant on average budget per film. 
@@ -41,10 +40,9 @@
   <img src="Movies_Report2.png" width="80%" alt="accessibility text">
 </p>
 
-<p>
-  ##
-</p>
-
+  <br>
+  
+(---)
 
 ### :mag_right: Key Findings 3:
   #### :high_brightness: Highest number of film released in 2013 and lowest number in 2017.
