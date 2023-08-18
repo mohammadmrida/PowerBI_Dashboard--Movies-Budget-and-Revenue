@@ -8,6 +8,7 @@
 #### :clipboard: <strong>Sample Data:</strong> Movies data I have used for this porject was between 2000 to 2017
 #### :clipboard: <strong>Sample Size:</strong> There were 4786 rows
 #### :clipboard: <strong>Observation (Column):</strong> Data contained 8 obeservations - Release Date, Title, Runtime, Reveue, Budget, Original Language and Popularity
+#### :bar_chart: ETL & Dashboard Tools: PowerBI, Power Query
 
 
 
